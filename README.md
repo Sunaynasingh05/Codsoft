@@ -1,2 +1,0 @@
-# Codsoft
-project 1
